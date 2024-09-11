@@ -1,0 +1,84 @@
+{
+  "tickets": [
+    {
+      "id": "1",
+      "Title": "Issue with login",
+      "Description": "Cannot log in to the account",
+      "Assignee": "Luffy",
+      "Status": "Pending",
+      "Priority": 0
+    },
+    {
+      "id": "2",
+      "Title": "Password reset",
+      "Description": "User unable to reset password",
+      "Assignee": "Nani",
+      "Status": "Progress",
+      "Priority": 1
+    },
+    {
+      "id": "3",
+      "Title": "Page not loading",
+      "Description": "Page fails to load",
+      "Assignee": "Zoro",
+      "Status": "Completed",
+      "Priority": 2
+    },
+    {
+      "id": "4",
+      "Title": "Error message on checkout",
+      "Description": "Error occurs during checkout",
+      "Assignee": "Rajesh",
+      "Status": "Completed",
+      "Priority": 2
+    },
+    {
+      "id": "5",
+      "Title": "Feature request",
+      "Description": "Request for a new feature",
+      "Assignee": "Kailash",
+      "Status": "Pending",
+      "Priority": 4
+    },
+    {
+      "id": "6",
+      "Title": "Performance issue",
+      "Description": "System performance is slow",
+      "Assignee": "Kanna",
+      "Status": "Progress",
+      "Priority": 5
+    },
+    {
+      "id": "7",
+      "Title": "Account suspension",
+      "Description": "User account has been suspended",
+      "Assignee": "Buntty",
+      "Status": "Completed",
+      "Priority": 6
+    },
+    {
+      "id": "8",
+      "Title": "Email notification failure",
+      "Description": "Emails not being sent",
+      "Assignee": "Chintu",
+      "Status": "Completed",
+      "Priority": 7
+    },
+    {
+      "id": "9",
+      "Title": "Database connection error",
+      "Description": "Cannot connect to the database",
+      "Assignee": "Chinni",
+      "Status": "Pending",
+      "Priority": 8
+    },
+    {
+      "id": "10",
+      "Title": "Bug in UI",
+      "Description": "UI shows incorrect information",
+      "Assignee": "Laddu",
+      "Status": "Progress",
+      "Priority": 9
+    }
+  ]
+}
